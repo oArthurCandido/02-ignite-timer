@@ -1,6 +1,6 @@
 import 'styled-components'
 import type { CSSProp } from 'styled-components'
-import { defaultTheme } from '../components/styles/default'
+import { defaultTheme } from '../styles/default'
 
 type ThemeType = typeof defaultTheme
 
